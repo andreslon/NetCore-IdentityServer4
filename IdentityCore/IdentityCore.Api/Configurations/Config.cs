@@ -1,6 +1,6 @@
 ﻿using IdentityServer4.Models;
 using System.Collections.Generic;
-namespace IdentityCore.Api
+namespace IdentityCore.Api.Configurations
 {
     public static class Config
     {
